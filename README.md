@@ -32,7 +32,7 @@ productos
 
 * 1er diagrama del modelo relacional de la base de datos.
 
-![1er diagrama] (Documents\Tup\Laboratorio\proyecto 2\diagrams\firstdiagram.svg)
+<img src="C:\Users\mdcac\Documents\Tup\Laboratorio\proyecto 2\diagrams">,
 
 <h3> 2da. Parte: </h3>
 
