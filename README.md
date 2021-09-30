@@ -1,51 +1,5 @@
 <h1>Sistema de ventas y de stock automotriz</h1>
 
-* Trabajo Práctico Integrador
-
-• Trabajar en grupo en forma ordenada y eficiente.
-
-* Evaluación y Calificación:
-
-* Descripcion: 
-        Sistema codificado en C# .net framework,
-        capaz de mostrar cinco reportes diferentes. 
-
-
-* Los temas propuestos para el diseño del sistema de base de datos son:
-1. Sistema académico de las Tecnicaturas de la UTN FRC
-2. La venta de entradas con butacas numeradas en un complejo de cines.
-3. Sistema de ventas y control de stock de una automotriz.
-4. Sistema de ventas de una farmacéutica
-
-* Primera Parte: 
-
-1er diagrama del modelo relacional de la base de datos.
-
-
-* 2da. Parte: 
-enunciado de lo que se quiere mostrar en la consulta y código de 
-la consulta que responda ese enunciado.
-
-* Goals: 
-
-composición de varias 
-tablas, utilizando distintos tipos de test (distintas condiciones de búsquedas), 
-consultas agrupadas, sumarias, subconsultas, vistas, procedimientos almacenados, 
-funciones incorporadas y definidas por el usuario, triggers, tablas temporales y 
-manejo de errores. 
-
-*
-3ra Parte: Presentación del ejecutable;para ello las 
-tablas de la base de datos deberá contener previamente datos cargados para tal 
-fin, es decir todas las tablas de resultado deben mostrar filas.
-
-Los test de comparación, correspondencia, pertenencia, rango etc., deben 
-incluir el ingreso de datos por parte del usuario del sistema desde la respectiva 
-pantalla de la aplicación.
-
-
-* Sistema de Venta y Control de Stock de una Automotriz
-
 Una fábrica automotriz necesita un sistema para el control del stock y de lo 
 que vende, como así también de sus clientes, que pueden ser consumidor final, una 
 empresa, un concesionario, o una vendedora de autopartes.
@@ -70,18 +24,50 @@ productos por compras realizadas al por mayor.
 La empresa además necesita conocer el historial de precios de sus 
 productos
 
+<h3> Descripcion: </h3>
+        Sistema codificado en C# .net framework,
+        capaz de mostrar cinco reportes diferentes. 
 
-A continuación, se presentan ejemplos de reportes posibles:
-• Totales de facturación y promedio de facturación periódicos (por mes, 
-trimestre, semestre, anuales, etc.)
-• Automóviles más vendidos
-• Automóviles que nunca se vendieron
-• Porcentaje de compras por tipo de cliente
-• Cantidad de vehículos entregados, promedio de montos, totales de 
-ventas
-• Cantidad de stock producido de autopartes por rango de fechas y/o por 
-períodos
+<h3> Primera Parte: </h3>
 
+* 1er diagrama del modelo relacional de la base de datos.
+
+![1er diagrama] (Documents\Tup\Laboratorio\proyecto 2\diagrams\firstdiagram.svg)
+
+<h3> 2da. Parte: </h3>
+
+* Enunciados: 
+    <ul>
+    <li>Totales de facturación y promedio de facturación periódicos (por mes,trimestre, semestre,anuales, etc.)</li>
+    <li>Automóviles que nunca se vendieron</li>
+    <li>Porcentaje de compras por tipo de cliente</li>
+    <li>sCantidad de vehículos entregados, promedio de montos, totales de ventas</li>
+    <li>Cantidad de stock producido de autopartes por rango de fechas y/o por períodos</li>
+    </ul>
+
+## Goals: ## 
+<ul>
+<li>composición de varias tablas</li>
+<li>utilizar distintos tipos de test (distintas condiciones de búsquedas)</li>
+<li>consultas agrupadas</li>
+<li>sumarias</li>
+<li>subconsultas</li>
+<li>vistas</li>
+<li>procedimientos almacenados</li>
+<li>funciones incorporadas definidas por el usuario</li>
+<li>triggers</li>
+<li>tablas temporales</li>
+<li>manejo de errores</li> 
+</ul>
+
+<h3>3ra Parte:</h3> 
+Presentación del ejecutable; para ello las 
+tablas de la base de datos deberá contener previamente datos cargados para tal 
+fin, es decir todas las tablas de resultado deben mostrar filas.
+
+Los test de comparación, correspondencia, pertenencia, rango etc., deben 
+incluir el ingreso de datos por parte del usuario del sistema desde la respectiva 
+pantalla de la aplicación.
 
 “If you absolutely can't tolerate critics, then don't do anything new or interesting“.
 Jeff Bezos
