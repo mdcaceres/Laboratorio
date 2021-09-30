@@ -31,8 +31,8 @@ productos
 <h3> Primera Parte: </h3>
 
 * 1er diagrama del modelo relacional de la base de datos.
-![Alt text](..\proyecto 2\diagrams\firstdiagram)
-<img src="..\proyecto 2\diagrams\firstdiagram.png">
+![Alt text](..\proyecto2\diagrams\firstdiagram.png)
+<img src="..\proyecto2\diagrams\firstdiagram.svg">
 
 <h3> 2da. Parte: </h3>
 
