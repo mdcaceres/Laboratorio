@@ -1,4 +1,4 @@
-<h1>Sistema de ventas y de stock automotriz<h1>
+<h1>Sistema de ventas y de stock automotriz</h1>
 
 * Trabajo Práctico Integrador
 
