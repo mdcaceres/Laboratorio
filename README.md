@@ -31,9 +31,8 @@ productos
 <h3> Primera Parte: </h3>
 
 * 1er diagrama del modelo relacional de la base de datos.
-![Alt text](..\proyectofiles\diagrams\firstdiagram.png)
 <img src="https://user-images.githubusercontent.com/85702956/135506421-4be56bbd-faf8-4289-9349-2702f3f7b9f4.png">
-![firstdiagram](https://user-images.githubusercontent.com/85702956/135506421-4be56bbd-faf8-4289-9349-2702f3f7b9f4.png)
+
 
 
 <h3> 2da. Parte: </h3>
