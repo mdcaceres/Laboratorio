@@ -32,7 +32,7 @@ productos
 
 * 1er diagrama del modelo relacional de la base de datos.
 ![Alt text](..\proyecto 2\diagrams\firstdiagram)
-<img src="..\proyecto 2\diagrams\firstdiagram">
+<img src="..\proyecto 2\diagrams\firstdiagram.png">
 
 <h3> 2da. Parte: </h3>
 
