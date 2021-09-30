@@ -1,6 +1,6 @@
-# Trabajo Práctico Integrador
+* Trabajo Práctico Integrador
 
-## Objetivos:
+* Objetivos:
 
 Que el alumno sea capaz de:
 • Integrar los conocimientos adquiridos en las materias Laboratorio de 
@@ -8,7 +8,7 @@ Computación I y II y Programación I y II.
 • Aplicar dichos conocimientos a un caso práctico.
 • Trabajar en grupo en forma ordenada y eficiente.
 
-## Evaluación y Calificación:
+* Evaluación y Calificación:
 
 Se evaluará la calidad, complejidad y presentación del trabajo como así 
 también la oportunidad de entrega en fecha
@@ -21,7 +21,7 @@ por el docente del curso o por los integrantes de los diferentes grupos.
 Se trabajará en grupos de cinco o 6 integrantes cada uno. No se aceptarán 
 alumnos resolviendo el práctico en forma individual.
 
-## Los temas propuestos para el diseño del sistema de base de datos son:
+* Los temas propuestos para el diseño del sistema de base de datos son:
 1. Sistema académico de las Tecnicaturas de la UTN FRC
 2. La venta de entradas con butacas numeradas en un complejo de cines.
 3. Sistema de ventas y control de stock de una automotriz.
@@ -35,7 +35,7 @@ elegidos libremente por cada grupo (esta decisión dependerá de cada docente).
 La entrega se efectuará en tres partes:
 
 
-# Primera Parte: 
+* Primera Parte: 
 
 Entrega del diagrama del modelo relacional de la base de 
 datos utilizando el software que el grupo crea conveniente, en formato PDF, en el 
@@ -53,7 +53,7 @@ No deberán entregarse las sentencias de definición ni de actualización de
 datos empleados para la creación y edición de las tablas de la base de datos
 Fecha de entrega: antes del 7 de octubre de 2021 a las 23:59.
 
-# 2da. Parte: 
+* 2da. Parte: 
 enunciado de lo que se quiere mostrar en la consulta y código de 
 la consulta que responda ese enunciado. Deberá entregarse junto con la primer 
 parte en un único documento con un nombre apropiado, por ejemplo: 
@@ -164,7 +164,7 @@ función.
 Pueden basarse para el desarrollo de esta base de datos y la posterior 
 programación de los informes una sala conocida por el grupo.
 
-## Los reportes posibles para este sistema de información son, por ejemplo:
+* Los reportes posibles para este sistema de información son, por ejemplo:
 
 • Ingresos totales mensuales por día de proyección, o por temporada 
 (vacaciones de invierno, de verano, feriados) o por bloques horarios.
@@ -179,7 +179,7 @@ determinada película o tipo de película (terror, acción, animadas, etc.)
 
 • Películas más vistas.
 
-## 3.- Sistema de Venta y Control de Stock de una Automotriz
+* 3.- Sistema de Venta y Control de Stock de una Automotriz
 
 Una fábrica automotriz necesita un sistema para el control del stock y de lo 
 que vende, como así también de sus clientes, que pueden ser consumidor final, una 
@@ -215,7 +215,7 @@ ventas
 • Cantidad de stock producido de autopartes por rango de fechas y/o por 
 períodos
 
-## 4.- Sistema de Venta de una Farmacéutica
+* 4.- Sistema de Venta de una Farmacéutica
 
 Una cadena farmacéutica necesita llevar la información de su operatoria 
 diaria de ventas al público y contar con reportes adecuados para un funcionamiento 
